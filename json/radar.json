@@ -1,0 +1,65 @@
+[
+  {
+    "id": "重庆",
+    "lon": 106.887703,
+    "lat": 29.439325,
+    "type": "ykCenter",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "雄安",
+    "lon": 115.85268,
+    "lat": 39.043222,
+    "type": "ykCenter",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "文昌",
+    "lon": 110.753975,
+    "lat": 19.612986,
+    "type": "radar",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "澄迈",
+    "lon": 110.006755,
+    "lat": 19.738521,
+    "type": "radar",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "铜川",
+    "lon": 108.974196,
+    "lat": 34.914399,
+    "type": "radar",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "佳木斯",
+    "lon": 130.318917,
+    "lat": 46.799922,
+    "type": "radar",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "库尔勒",
+    "lon": 86.174633,
+    "lat": 41.725892,
+    "type": "radar",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "喀什",
+    "lon": 75.989754,
+    "lat": 39.470402,
+    "type": "radar2",
+    "toRadarPolyLines": []
+  },
+  {
+    "id": "拉萨",
+    "lon": 91.172112,
+    "lat": 29.652491,
+    "type": "radar2",
+    "toRadarPolyLines": []
+  }
+]

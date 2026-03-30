@@ -1,0 +1,7711 @@
+{
+  "CSCN-A1101": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1101 - CSCN-A1102",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1101 - CSCN-A1201",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1102": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1102 - CSCN-A1103",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1102 - CSCN-A1202",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1103": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1103 - CSCN-A1104",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1103 - CSCN-A1203",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1104": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1104 - CSCN-A1105",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1104 - CSCN-A1204",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1105": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1105 - CSCN-A1106",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1105 - CSCN-A1205",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1106": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1106 - CSCN-A1107",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1106 - CSCN-A1206",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1107": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1107 - CSCN-A1108",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1107 - CSCN-A1207",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1108": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1108 - CSCN-A1109",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1108 - CSCN-A1208",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1109": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1109 - CSCN-A1110",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1109 - CSCN-A1209",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1110": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1110 - CSCN-A1111",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1110 - CSCN-A1210",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1111": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1111 - CSCN-A1112",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1111 - CSCN-A1211",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1112": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1112 - CSCN-A1113",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1112 - CSCN-A1212",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1113": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1113 - CSCN-A1114",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1113 - CSCN-A1213",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1114": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1114 - CSCN-A1115",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1114 - CSCN-A1214",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1115": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1115 - CSCN-A1116",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1115 - CSCN-A1215",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1116": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1116 - CSCN-A1117",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1116 - CSCN-A1216",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1117": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1117 - CSCN-A1118",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1117 - CSCN-A1217",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1118": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1118 - CSCN-A1119",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1118 - CSCN-A1218",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1119": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1119 - CSCN-A1120",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1119 - CSCN-A1219",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1120": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1120 - CSCN-A1121",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1120 - CSCN-A1220",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1121": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1121 - CSCN-A1122",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1121 - CSCN-A1221",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1122": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1122 - CSCN-A1123",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1122 - CSCN-A1222",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1123": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1123 - CSCN-A1124",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1123 - CSCN-A1223",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1124": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1124 - CSCN-A1125",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1124 - CSCN-A1224",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1125": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1125 - CSCN-A1126",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1125 - CSCN-A1225",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1126": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1126 - CSCN-A1127",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1126 - CSCN-A1226",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1127": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1127 - CSCN-A1128",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1127 - CSCN-A1227",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1128": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1128 - CSCN-A1129",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1128 - CSCN-A1228",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1129": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1129 - CSCN-A1130",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1129 - CSCN-A1229",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1130": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1130 - CSCN-A1131",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1130 - CSCN-A1230",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1131": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1131 - CSCN-A1132",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1131 - CSCN-A1231",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1132": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1132 - CSCN-A1133",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1132 - CSCN-A1232",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1133": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1133 - CSCN-A1134",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1133 - CSCN-A1233",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1134": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1134 - CSCN-A1135",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1134 - CSCN-A1234",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1135": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1135 - CSCN-A1136",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1135 - CSCN-A1235",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1136": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1136 - CSCN-A1137",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1136 - CSCN-A1236",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1137": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1137 - CSCN-A1138",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1137 - CSCN-A1237",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1138": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1138 - CSCN-A1139",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1138 - CSCN-A1238",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1139": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1139 - CSCN-A1140",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1139 - CSCN-A1239",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1140": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 201.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1140 - CSCN-A1240",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1201": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1201 - CSCN-A1202",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1201 - CSCN-A1301",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1202": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1202 - CSCN-A1203",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1202 - CSCN-A1302",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1203": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1203 - CSCN-A1204",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1203 - CSCN-A1303",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1204": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1204 - CSCN-A1205",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1204 - CSCN-A1304",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1205": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1205 - CSCN-A1206",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1205 - CSCN-A1305",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1206": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1206 - CSCN-A1207",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1206 - CSCN-A1306",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1207": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1207 - CSCN-A1208",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1207 - CSCN-A1307",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1208": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1208 - CSCN-A1209",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1208 - CSCN-A1308",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1209": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1209 - CSCN-A1210",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1209 - CSCN-A1309",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1210": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1210 - CSCN-A1211",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1210 - CSCN-A1310",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1211": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1211 - CSCN-A1212",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1211 - CSCN-A1311",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1212": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1212 - CSCN-A1213",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1212 - CSCN-A1312",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1213": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1213 - CSCN-A1214",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1213 - CSCN-A1313",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1214": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1214 - CSCN-A1215",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1214 - CSCN-A1314",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1215": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1215 - CSCN-A1216",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1215 - CSCN-A1315",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1216": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1216 - CSCN-A1217",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1216 - CSCN-A1316",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1217": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1217 - CSCN-A1218",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1217 - CSCN-A1317",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1218": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1218 - CSCN-A1219",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1218 - CSCN-A1318",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1219": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1219 - CSCN-A1220",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1219 - CSCN-A1319",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1220": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1220 - CSCN-A1221",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1220 - CSCN-A1320",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1221": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1221 - CSCN-A1222",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1221 - CSCN-A1321",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1222": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1222 - CSCN-A1223",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1222 - CSCN-A1322",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1223": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1223 - CSCN-A1224",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1223 - CSCN-A1323",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1224": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1224 - CSCN-A1225",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1224 - CSCN-A1324",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1225": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1225 - CSCN-A1226",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1225 - CSCN-A1325",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1226": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1226 - CSCN-A1227",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1226 - CSCN-A1326",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1227": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1227 - CSCN-A1228",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1227 - CSCN-A1327",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1228": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1228 - CSCN-A1229",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1228 - CSCN-A1328",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1229": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1229 - CSCN-A1230",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1229 - CSCN-A1329",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1230": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1230 - CSCN-A1231",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1230 - CSCN-A1330",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1231": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1231 - CSCN-A1232",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1231 - CSCN-A1331",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1232": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1232 - CSCN-A1233",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1232 - CSCN-A1332",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1233": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1233 - CSCN-A1234",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1233 - CSCN-A1333",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1234": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1234 - CSCN-A1235",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1234 - CSCN-A1334",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1235": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1235 - CSCN-A1236",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1235 - CSCN-A1335",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1236": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1236 - CSCN-A1237",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1236 - CSCN-A1336",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1237": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1237 - CSCN-A1238",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1237 - CSCN-A1337",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1238": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1238 - CSCN-A1239",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1238 - CSCN-A1338",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1239": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1239 - CSCN-A1240",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1239 - CSCN-A1339",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1240": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 186.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1240 - CSCN-A1340",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1301": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1301 - CSCN-A1302",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1301 - CSCN-A1401",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1302": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1302 - CSCN-A1303",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1302 - CSCN-A1402",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1303": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1303 - CSCN-A1304",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1303 - CSCN-A1403",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1304": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1304 - CSCN-A1305",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1304 - CSCN-A1404",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1305": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1305 - CSCN-A1306",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1305 - CSCN-A1405",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1306": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1306 - CSCN-A1307",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1306 - CSCN-A1406",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1307": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1307 - CSCN-A1308",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1307 - CSCN-A1407",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1308": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1308 - CSCN-A1309",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1308 - CSCN-A1408",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1309": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1309 - CSCN-A1310",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1309 - CSCN-A1409",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1310": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1310 - CSCN-A1311",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1310 - CSCN-A1410",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1311": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1311 - CSCN-A1312",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1311 - CSCN-A1411",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1312": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1312 - CSCN-A1313",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1312 - CSCN-A1412",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1313": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1313 - CSCN-A1314",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1313 - CSCN-A1413",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1314": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1314 - CSCN-A1315",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1314 - CSCN-A1414",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1315": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1315 - CSCN-A1316",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1315 - CSCN-A1415",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1316": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1316 - CSCN-A1317",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1316 - CSCN-A1416",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1317": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1317 - CSCN-A1318",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1317 - CSCN-A1417",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1318": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1318 - CSCN-A1319",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1318 - CSCN-A1418",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1319": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1319 - CSCN-A1320",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1319 - CSCN-A1419",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1320": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1320 - CSCN-A1321",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1320 - CSCN-A1420",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1321": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1321 - CSCN-A1322",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1321 - CSCN-A1421",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1322": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1322 - CSCN-A1323",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1322 - CSCN-A1422",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1323": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1323 - CSCN-A1324",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1323 - CSCN-A1423",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1324": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1324 - CSCN-A1325",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1324 - CSCN-A1424",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1325": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1325 - CSCN-A1326",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1325 - CSCN-A1425",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1326": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1326 - CSCN-A1327",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1326 - CSCN-A1426",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1327": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1327 - CSCN-A1328",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1327 - CSCN-A1427",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1328": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1328 - CSCN-A1329",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1328 - CSCN-A1428",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1329": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1329 - CSCN-A1330",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1329 - CSCN-A1429",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1330": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1330 - CSCN-A1331",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1330 - CSCN-A1430",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1331": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1331 - CSCN-A1332",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1331 - CSCN-A1431",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1332": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1332 - CSCN-A1333",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1332 - CSCN-A1432",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1333": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1333 - CSCN-A1334",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1333 - CSCN-A1433",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1334": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1334 - CSCN-A1335",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1334 - CSCN-A1434",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1335": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1335 - CSCN-A1336",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1335 - CSCN-A1435",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1336": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1336 - CSCN-A1337",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1336 - CSCN-A1436",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1337": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1337 - CSCN-A1338",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1337 - CSCN-A1437",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1338": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1338 - CSCN-A1339",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1338 - CSCN-A1438",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1339": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1339 - CSCN-A1340",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1339 - CSCN-A1439",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1340": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 171.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1340 - CSCN-A1440",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1401": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1401 - CSCN-A1402",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1401 - CSCN-A1501",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1402": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1402 - CSCN-A1403",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1402 - CSCN-A1502",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1403": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1403 - CSCN-A1404",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1403 - CSCN-A1503",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1404": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1404 - CSCN-A1405",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1404 - CSCN-A1504",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1405": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1405 - CSCN-A1406",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1405 - CSCN-A1505",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1406": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1406 - CSCN-A1407",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1406 - CSCN-A1506",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1407": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1407 - CSCN-A1408",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1407 - CSCN-A1507",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1408": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1408 - CSCN-A1409",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1408 - CSCN-A1508",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1409": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1409 - CSCN-A1410",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1409 - CSCN-A1509",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1410": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1410 - CSCN-A1411",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1410 - CSCN-A1510",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1411": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1411 - CSCN-A1412",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1411 - CSCN-A1511",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1412": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1412 - CSCN-A1413",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1412 - CSCN-A1512",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1413": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1413 - CSCN-A1414",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1413 - CSCN-A1513",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1414": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1414 - CSCN-A1415",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1414 - CSCN-A1514",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1415": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1415 - CSCN-A1416",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1415 - CSCN-A1515",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1416": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1416 - CSCN-A1417",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1416 - CSCN-A1516",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1417": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1417 - CSCN-A1418",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1417 - CSCN-A1517",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1418": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1418 - CSCN-A1419",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1418 - CSCN-A1518",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1419": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1419 - CSCN-A1420",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1419 - CSCN-A1519",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1420": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1420 - CSCN-A1421",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1420 - CSCN-A1520",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1421": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1421 - CSCN-A1422",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1421 - CSCN-A1521",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1422": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1422 - CSCN-A1423",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1422 - CSCN-A1522",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1423": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1423 - CSCN-A1424",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1423 - CSCN-A1523",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1424": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1424 - CSCN-A1425",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1424 - CSCN-A1524",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1425": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1425 - CSCN-A1426",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1425 - CSCN-A1525",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1426": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1426 - CSCN-A1427",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1426 - CSCN-A1526",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1427": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1427 - CSCN-A1428",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1427 - CSCN-A1527",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1428": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1428 - CSCN-A1429",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1428 - CSCN-A1528",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1429": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1429 - CSCN-A1430",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1429 - CSCN-A1529",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1430": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1430 - CSCN-A1431",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1430 - CSCN-A1530",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1431": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1431 - CSCN-A1432",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1431 - CSCN-A1531",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1432": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1432 - CSCN-A1433",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1432 - CSCN-A1532",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1433": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1433 - CSCN-A1434",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1433 - CSCN-A1533",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1434": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1434 - CSCN-A1435",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1434 - CSCN-A1534",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1435": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1435 - CSCN-A1436",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1435 - CSCN-A1535",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1436": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1436 - CSCN-A1437",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1436 - CSCN-A1536",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1437": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1437 - CSCN-A1438",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1437 - CSCN-A1537",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1438": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1438 - CSCN-A1439",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1438 - CSCN-A1538",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1439": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1439 - CSCN-A1440",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1439 - CSCN-A1539",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1440": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 156.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1440 - CSCN-A1540",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1501": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1501 - CSCN-A1502",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1501 - CSCN-A1601",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1502": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1502 - CSCN-A1503",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1502 - CSCN-A1602",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1503": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1503 - CSCN-A1504",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1503 - CSCN-A1603",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1504": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1504 - CSCN-A1505",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1504 - CSCN-A1604",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1505": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1505 - CSCN-A1506",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1505 - CSCN-A1605",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1506": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1506 - CSCN-A1507",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1506 - CSCN-A1606",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1507": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1507 - CSCN-A1508",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1507 - CSCN-A1607",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1508": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1508 - CSCN-A1509",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1508 - CSCN-A1608",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1509": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1509 - CSCN-A1510",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1509 - CSCN-A1609",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1510": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1510 - CSCN-A1511",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1510 - CSCN-A1610",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1511": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1511 - CSCN-A1512",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1511 - CSCN-A1611",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1512": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1512 - CSCN-A1513",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1512 - CSCN-A1612",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1513": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1513 - CSCN-A1514",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1513 - CSCN-A1613",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1514": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1514 - CSCN-A1515",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1514 - CSCN-A1614",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1515": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1515 - CSCN-A1516",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1515 - CSCN-A1615",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1516": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1516 - CSCN-A1517",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1516 - CSCN-A1616",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1517": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1517 - CSCN-A1518",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1517 - CSCN-A1617",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1518": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1518 - CSCN-A1519",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1518 - CSCN-A1618",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1519": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1519 - CSCN-A1520",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1519 - CSCN-A1619",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1520": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1520 - CSCN-A1521",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1520 - CSCN-A1620",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1521": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1521 - CSCN-A1522",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1521 - CSCN-A1621",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1522": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1522 - CSCN-A1523",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1522 - CSCN-A1622",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1523": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1523 - CSCN-A1524",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1523 - CSCN-A1623",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1524": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1524 - CSCN-A1525",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1524 - CSCN-A1624",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1525": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1525 - CSCN-A1526",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1525 - CSCN-A1625",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1526": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1526 - CSCN-A1527",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1526 - CSCN-A1626",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1527": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1527 - CSCN-A1528",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1527 - CSCN-A1627",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1528": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1528 - CSCN-A1529",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1528 - CSCN-A1628",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1529": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1529 - CSCN-A1530",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1529 - CSCN-A1629",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1530": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1530 - CSCN-A1531",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1530 - CSCN-A1630",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1531": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1531 - CSCN-A1532",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1531 - CSCN-A1631",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1532": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1532 - CSCN-A1533",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1532 - CSCN-A1632",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1533": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1533 - CSCN-A1534",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1533 - CSCN-A1633",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1534": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1534 - CSCN-A1535",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1534 - CSCN-A1634",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1535": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1535 - CSCN-A1536",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1535 - CSCN-A1635",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1536": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1536 - CSCN-A1537",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1536 - CSCN-A1636",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1537": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1537 - CSCN-A1538",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1537 - CSCN-A1637",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1538": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1538 - CSCN-A1539",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1538 - CSCN-A1638",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1539": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1539 - CSCN-A1540",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      },
+      {
+        "id": "CSCN-A1539 - CSCN-A1639",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1540": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 141.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1540 - CSCN-A1640",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1601": {
+    "tle": [
+      "1 00018U 59005  A 59269.32477950  .04655228 +00000-0 +00000-0 0  9998",
+      "2 00018 054.9899 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1601 - CSCN-A1602",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1602": {
+    "tle": [
+      "1 00019U 59005  A 59269.3261683 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00019 054.9901 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1602 - CSCN-A1603",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1603": {
+    "tle": [
+      "1 00020U 59005  A 59269.3275571 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00020 054.9903 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1603 - CSCN-A1604",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1604": {
+    "tle": [
+      "1 00021U 59005  A 59269.3289459 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00021 054.9905 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1604 - CSCN-A1605",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1605": {
+    "tle": [
+      "1 00022U 59005  A 59269.3303347 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00022 054.9907 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1605 - CSCN-A1606",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1606": {
+    "tle": [
+      "1 00023U 59005  A 59269.3317235 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00023 054.9909 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1606 - CSCN-A1607",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1607": {
+    "tle": [
+      "1 00024U 59005  A 59269.3331123 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00024 054.9911 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1607 - CSCN-A1608",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1608": {
+    "tle": [
+      "1 00025U 59005  A 59269.3345011 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00025 054.9913 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1608 - CSCN-A1609",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1609": {
+    "tle": [
+      "1 00026U 59005  A 59269.3358899 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00026 054.9915 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1609 - CSCN-A1610",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1610": {
+    "tle": [
+      "1 00027U 59005  A 59269.3372787 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00027 054.9917 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1610 - CSCN-A1611",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1611": {
+    "tle": [
+      "1 00028U 59005  A 59269.3386675 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00028 054.9919 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1611 - CSCN-A1612",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1612": {
+    "tle": [
+      "1 00029U 59005  A 59269.3400563 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00029 054.9921 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1612 - CSCN-A1613",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1613": {
+    "tle": [
+      "1 00030U 59005  A 59269.3414451 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00030 054.9923 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1613 - CSCN-A1614",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1614": {
+    "tle": [
+      "1 00031U 59005  A 59269.3428339 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00031 054.9925 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1614 - CSCN-A1615",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1615": {
+    "tle": [
+      "1 00032U 59005  A 59269.3442227 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00032 054.9927 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1615 - CSCN-A1616",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1616": {
+    "tle": [
+      "1 00033U 59005  A 59269.3456115 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00033 054.9929 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1616 - CSCN-A1617",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1617": {
+    "tle": [
+      "1 00034U 59005  A 59269.3470003 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00034 054.9931 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1617 - CSCN-A1618",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": [
+      {
+        "id": "CSCN-A1617 - 铜川",
+        "show": [
+          {
+            "interval": "1706772900000/1706773500000",
+            "boolean": true,
+            "state": "warning"
+          }
+        ]
+      }
+    ]
+  },
+  "CSCN-A1618": {
+    "tle": [
+      "1 00035U 59005  A 59269.3483891 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00035 054.9933 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1618 - CSCN-A1619",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1619": {
+    "tle": [
+      "1 00036U 59005  A 59269.3497779 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00036 054.9935 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1619 - CSCN-A1620",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1620": {
+    "tle": [
+      "1 00037U 59005  A 59269.3511667 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00037 054.9937 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1620 - CSCN-A1621",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1621": {
+    "tle": [
+      "1 00038U 59005  A 59269.3525555 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00038 054.9939 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1621 - CSCN-A1622",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1622": {
+    "tle": [
+      "1 00039U 59005  A 59269.3539443 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00039 054.9941 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1622 - CSCN-A1623",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1623": {
+    "tle": [
+      "1 00040U 59005  A 59269.3553331 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00040 054.9943 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1623 - CSCN-A1624",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1624": {
+    "tle": [
+      "1 00041U 59005  A 59269.3567219 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00041 054.9945 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1624 - CSCN-A1625",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1625": {
+    "tle": [
+      "1 00042U 59005  A 59269.3581107 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00042 054.9947 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1625 - CSCN-A1626",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1626": {
+    "tle": [
+      "1 00043U 59005  A 59269.3594995 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00043 054.9949 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1626 - CSCN-A1627",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1627": {
+    "tle": [
+      "1 00044U 59005  A 59269.3608883 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00044 054.9951 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1627 - CSCN-A1628",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1628": {
+    "tle": [
+      "1 00045U 59005  A 59269.3622771 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00045 054.9953 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1628 - CSCN-A1629",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1629": {
+    "tle": [
+      "1 00046U 59005  A 59269.3636659 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00046 054.9955 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1629 - CSCN-A1630",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1630": {
+    "tle": [
+      "1 00047U 59005  A 59269.3650547 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00047 054.9957 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1630 - CSCN-A1631",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1631": {
+    "tle": [
+      "1 00048U 59005  A 59269.3664435 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00048 054.9959 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1631 - CSCN-A1632",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1632": {
+    "tle": [
+      "1 00049U 59005  A 59269.3678323 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00049 054.9961 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1632 - CSCN-A1633",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1633": {
+    "tle": [
+      "1 00050U 59005  A 59269.3691811 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00050 054.9963 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1633 - CSCN-A1634",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1634": {
+    "tle": [
+      "1 00051U 59005  A 59269.3706099 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9965 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1634 - CSCN-A1635",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1635": {
+    "tle": [
+      "1 00052U 59005  A 59269.3719987 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00052 054.9967 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1635 - CSCN-A1636",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1636": {
+    "tle": [
+      "1 00053U 59005  A 59269.3733875 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00053 054.9969 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1636 - CSCN-A1637",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1637": {
+    "tle": [
+      "1 00054U 59005  A 59269.3747763 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00054 054.9971 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1637 - CSCN-A1638",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1638": {
+    "tle": [
+      "1 00055U 59005  A 59269.3761651 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00055 054.9973 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1638 - CSCN-A1639",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1639": {
+    "tle": [
+      "1 00056U 59005  A 59269.3775539 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9975 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [
+      {
+        "id": "CSCN-A1639 - CSCN-A1640",
+        "show": [
+          {
+            "interval": "1706760000000/1706846400000",
+            "boolean": true,
+            "state": "default"
+          }
+        ]
+      }
+    ],
+    "toRadarPolyLines": []
+  },
+  "CSCN-A1640": {
+    "tle": [
+      "1 00056U 59005  A 59269.3789427 .04655228 +00000-0 +00000-0 0  9998",
+      "2 00056 054.9977 126.4819 0140209 012.7649 347.4143 15.28843120006800"
+    ],
+    "country": "CN",
+    "role": "LEO",
+    "networkSystem": "",
+    "type": "",
+    "networkState": "",
+    "toSatellitePolyLines": [],
+    "toRadarPolyLines": []
+  }
+}
